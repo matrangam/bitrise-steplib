@@ -16,10 +16,10 @@ description: |
 website: https://github.com/matrangam/bitrise-step-swift-test
 source_code_url: https://github.com/matrangam/bitrise-step-swift-test
 support_url: https://github.com/matrangam/bitrise-step-swift-test/issues
+published_at: 2022-06-29T19:21:14.9231203+02:00
 source: 
   git: https://github.com/matrangam/bitrise-step-swift-test
   commit: master
-published_at: 2022-06-29T19:21:14.9231203+02:00
 host_os_tags:
   - osx-10.10
   - ubuntu-16.04
@@ -63,8 +63,7 @@ deps:
 
 
 toolkit:
-  swift:
-
+  swift: {}
 
 inputs:
   - example_step_input: Default Value - you can leave this empty if you want to
